@@ -5,6 +5,11 @@
 
 Support :
 
+### Petite introduction au TDD par l'exemple ([Xavier Nopre](https://github.com/xnopre))
+
+* [Support / Diaporama](https://docs.google.com/presentation/d/1uH7zv33PnCEsx3Wgv19MUYIZiV--kCV1JkYtDfHNPww/edit?usp=sharing)
+* [Sources live coding](https://github.com/xnopre/tdd-demos/tree/alpescraft-2019)
+
 ### Désigné pour être jeté!
 
 Support :
