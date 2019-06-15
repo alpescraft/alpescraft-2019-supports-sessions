@@ -3,7 +3,8 @@
 
 ## Equiper sa voie ([Thomas Pierrain](https://github.com/tpierrain))
 
-Support :
+* [Support / Diaporama](https://www.slideshare.net/ThomasPierrain/equiper-sa-voie
+)
 
 ### Petite introduction au TDD par l'exemple ([Xavier Nopre](https://github.com/xnopre))
 
@@ -14,7 +15,7 @@ Support :
 
 Support :
 
-### Découvrez l’Example mapping par la pratique
+### Découvrez l’Example mapping par la pratique ([Thomas Pierrain](https://github.com/tpierrain))
 
 Support :
 
