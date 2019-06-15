@@ -58,9 +58,10 @@ Support :
 
 Support :
 
-### Exploration de différents styles d'architecture
+### Exploration de différents styles d'architecture ([Clément Bouillier](https://github.com/devcrafting))
 
-Support :
+* [Support / Diaporama](https://docs.google.com/presentation/d/1Iryl3NYZjmAI8_9vd1r8XsbUG5FV1YmOQz-xzNJKFnM/edit#slide=id.g518a0a815d_0_32)
+* [Sources](https://github.com/devcrafting/architecture-styles)
 
 ### Metrics Driven Development
 
