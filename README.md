@@ -67,9 +67,10 @@ Support :
 
 Support :
 
-### Carpaccio d'éléphant
+### Carpaccio d'éléphant ([Christophe Maldivi](https://github.com/ChristopheMaldivi) et [Emeric Fontaine](https://github.com/EmericFo))
 
-Support :
+* [Support / Diaporama](https://github.com/Orange-OpenSource/dojo-elephant-carpaccio/blob/master/elephant-carpaccio.pdf)
+* [Sources](https://github.com/Orange-OpenSource/dojo-elephant-carpaccio)
 
 ### Open Closed Principle - Le challenge
 
