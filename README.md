@@ -35,9 +35,9 @@ Support :
 
 Support :
 
-### Des principes de design à la rescousse des microservices
+### Des principes de design à la rescousse des microservices ([Jérôme Avoustin](https://github.com/rehia/))
 
-Support :
+* [Support / Diaporama](https://rehia.github.io/ddd-microservices/)
 
 ### Des principes de design à la rescousse des microservices
 
@@ -82,6 +82,8 @@ Support :
 
 Support :
 
-### Des callbacks à async/await : une histoire asynchrone
+### Des callbacks à async/await : une histoire asynchrone ([Jérôme Avoustin](https://github.com/rehia/))
 
-Support :
+* [Video](https://twitter.com/JeromeAvoustin/status/1139198961514930176?s=19)
+* [Sources](https://github.com/rehia/conf-js-async)
+
