@@ -26,9 +26,9 @@ Support :
 
 Support :
 
-### La revue de code, sur le terrain
+### La revue de code, sur le terrain ([Manuel Vacelet](https://github.com/vaceletm))
 
-Support :
+* [Support / Diaporama](https://www.slideshare.net/manuelvacelet/le-revue-de-code-sur-le-terrain)
 
 ### Démarrer vite, tester, apprendre, partager et recommencer !
 
