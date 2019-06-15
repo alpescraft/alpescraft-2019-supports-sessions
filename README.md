@@ -50,9 +50,10 @@ Support :
 
 Support :
 
-### D'impératif au fonctionnel
+### D'impératif au fonctionnel ([Patrick Giry](https://github.com/PatrickGIRY/))
 
-Support :
+* [Support / Diaporama](https://github.com/PatrickGIRY/attendeesFinder/blob/solution/slides/On%20the%20way%20to%20functional%20programming.pdf)
+* [Sources](https://github.com/PatrickGIRY/attendeesFinder/tree/solution)
 
 ### Méthodes UX faciles, ou comment l'artisan s'assure qu'il va contenter ses clients
 
