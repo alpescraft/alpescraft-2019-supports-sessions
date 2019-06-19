@@ -58,7 +58,7 @@ Support :
 
 ### Méthodes UX faciles, ou comment l'artisan s'assure qu'il va contenter ses clients
 
-[Support / Diaporama](https://docs.google.com/presentation/d/1fui8LZwtsZNpHtOzkgUt-YfSF3A36PsBqdAwTU-fzy0/edit)
+* [Support / Diaporama](https://docs.google.com/presentation/d/1fui8LZwtsZNpHtOzkgUt-YfSF3A36PsBqdAwTU-fzy0/edit)
 
 ### Exploration de différents styles d'architecture ([Clément Bouillier](https://github.com/devcrafting))
 
