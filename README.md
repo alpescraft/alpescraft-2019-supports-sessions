@@ -47,9 +47,9 @@ Support :
 
 Support :
 
-### Maîtriser son IDE
+### Maîtriser son IDE ([Rémy Sanlaville](https://github.com/sanlaville))
 
-Support :
+* [Sources](https://github.com/sanlaville/master-your-ide)
 
 ### D'impératif au fonctionnel ([Patrick Giry](https://github.com/PatrickGIRY/))
 
