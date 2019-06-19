@@ -21,7 +21,8 @@ Support :
 
 ### Pimper sa chaîne de build
 
-Support :
+* [Support / Diaporama](https://drive.google.com/file/d/1EVHbZHBbGW78PUHPg-i46seZkILpt-48/view?usp=sharing)
+* [Sources live coding](https://github.com/alpescraft/alpescraft-2019-ateliers)
 
 ### Du legacy au TDD
 
