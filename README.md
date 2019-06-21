@@ -35,6 +35,7 @@ Support :
 
 - [Support](/cultivons-nos-exemples/index.md)
 - [Sources live coding](/cultivons-nos-exemples/index.md#sources)
+- [vidéo réalisée à postériori](https://www.youtube.com/watch?v=61AGIBdG7YE)
 
 ### Des principes de design à la rescousse des microservices ([Jérôme Avoustin](https://github.com/rehia/))
 
