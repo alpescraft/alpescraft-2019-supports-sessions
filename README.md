@@ -19,7 +19,7 @@ Support :
 
 Support :
 
-### Pimper sa chaîne de build
+### Pimper sa chaîne de build ([Laurent Tardif](https://www.linkedin.com/in/laurenttardif/))
 
 * [Support / Diaporama](https://drive.google.com/file/d/1EVHbZHBbGW78PUHPg-i46seZkILpt-48/view?usp=sharing)
 * [Sources live coding](https://github.com/alpescraft/alpescraft-2019-ateliers)
