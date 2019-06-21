@@ -31,7 +31,7 @@ Support :
 
 * [Support / Diaporama](https://www.slideshare.net/manuelvacelet/le-revue-de-code-sur-le-terrain)
 
-### Démarrer vite, tester, apprendre, partager et recommencer !
+### Démarrer vite, tester, apprendre, partager et recommencer ! ([David Crosson](https://github.com/dacr))
 
 - [Support](/cultivons-nos-exemples/index.md)
 - [Sources live coding](/cultivons-nos-exemples/index.md#sources)
