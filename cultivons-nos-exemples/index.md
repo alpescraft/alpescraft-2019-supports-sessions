@@ -1,7 +1,7 @@
 # Cultivons nos exemples !
 _Démarrer vite, tester, apprendre, partager et recommencer !_
 
-David CROSSON - twitter:[@crodav](https://twitter.com/crodav) - github:[dacr](https://github.com/dacr)
+David CROSSON - twitter:[@crodav](https://twitter.com/crodav) - github:[dacr](https://github.com/dacr) - [AlpesCraft 2019](https://www.alpescraft.fr/)
 
 ---
 
