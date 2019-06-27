@@ -32,9 +32,11 @@ Support :
 
 * [Support / Diaporama](https://www.slideshare.net/manuelvacelet/le-revue-de-code-sur-le-terrain)
 
-### Démarrer vite, tester, apprendre, partager et recommencer !
+### Démarrer vite, tester, apprendre, partager et recommencer ! ([David Crosson](https://github.com/dacr))
 
-Support :
+- [Support](/cultivons-nos-exemples/index.md)
+- [Sources live coding](/cultivons-nos-exemples/index.md#sources)
+- [vidéo réalisée à postériori](https://www.youtube.com/watch?v=61AGIBdG7YE)
 
 ### Des principes de design à la rescousse des microservices ([Jérôme Avoustin](https://github.com/rehia/))
 
